@@ -1,0 +1,7 @@
+I've been looking over the code for the system implementor and it looks pretty good.
+Basically it processes a text with KNext, then postprocesses the output.
+The output consists of "general world knowledge" extracted from the text.
+This is enough to specify classes, attributes, and functions.
+To get the exact behavior will be more difficult.
+We would have to align the text against these objects and extract the relationships between the items in the text.
+Then populate perhaps functions that would implement the desired behavior.

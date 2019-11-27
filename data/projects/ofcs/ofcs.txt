@@ -1,0 +1,110 @@
+OFCS is not a currency system, in that there are no anonymous units of
+symbolic value that can be exchanged. Debits and credits are applied
+directly on accounts of individuals or commodities themselves. Credits
+and debits cannot be transferred from one account to
+another.
+
+There cannot be cash in this system because every credit or debit is a
+record of a unique event and thus cannot be exchanged for substituted
+for another. Cash as such may be replaced by documentation, or
+receipts when a physical representation is needed, but are not in
+themselves to be considered of any value or negotiable.
+
+An OFCS account can be opened under any name. Biometrics and other
+physical keys will ensure identity security. All records can be
+audited, though personal information will be kept secret and can
+actually be omitted. Individuals can create as many accounts as they
+wish in the system.
+
+All debits and credits created or negated can be audited, even credits
+and debits that have been negated from being spent or fulfilled,
+respectively.
+
+A redundant, encrypted and distributed file system ensures that the
+OFCS can survive the loss of several nodes and is invulnerable to
+malicious attack.
+
+Each credit or debit has a unique record of evidence such as video
+built into it as a matter of verification. Additionally, a third party
+must verify the credit or debit creation. All data is heavily
+encrypted and keyed to identifiers such as time or geolocation.
+
+The underlying OFCS can be utilized for a variety of purposes, so that
+multiple independent exchange systems can be created. Any number of
+social and communication tools can be used to facilitate the function
+and particular rule-set of each system.
+
+Each syndicate should at its heart have a common idea for what should
+be the basis for credit: labor-time, energy, power, karma, trust, or
+widgets, etc. Any basis for credit must be absolute and normative,
+because the system does not allow for interest, depreciation, or other
+such trappings of subjective currency.
+
+Syndicate membership and self-government. The Syndicate must decide
+how it will govern itself, whether that be by direct democracy,
+elected delegates, designated individuals, or even by total
+automation.
+
+The purpose and principles of the syndicate must be clear, otherwise
+there will be no guidelines when it comes to creating the rule-set.
+
+Each syndicate will have choices to make in implementing a
+rule-set. Though the underlying system is inflexible, there are
+certain behaviors and matters of policy that will be hard-wired but
+revisable. Some of these will be ad-hoc rules, such as crediting
+certain professions or activities at a different rate than others.
+
+The rule-set must be tested in simulation by either role-playing or
+using gaming simulations.
+
+Revisions must be made to the rule-set that satisfy both the
+syndicate's principles and utilitarian concerns. The procedure for
+revisions shall be determined by each syndicate.
+
+The system applies the custom rule-set in all transactions such that
+all transactions are quick and conveniently executed.
+
+All disputes or errors will be reported to the appropriate regulating
+syndicate and dealt with in their particular ways.
+
+The syndicate is entrusted to continually be improving its own
+rule-set and relations with other credit syndicates, as well as
+providing services to its constituents.
+
+When a credit syndicate becomes untenable, unstable, or inactive due
+to neglect, it may be necessary to dissolve the syndicate. Dissolution
+itself is not complex, but a process for distribution and transference
+of all indebted goods must be laid out beforehand to prevent disputes.
+
+If two syndicates wish to merge their economies, there are several
+options: they can either keep their separate credit unit systems,
+create a new system from scratch, or transfer all of one credit system
+into the other.
+
+Automated checks of individual accounts can occur continuously,
+adjusting for variable rates in the market. For example, GHG
+sequestering may vary in labor costs, which will dynamically affect
+the balance of an individual who has GHG emissions tallied in their
+debits.
+
+Rules can be set for deficit spending. For example, it could be that
+syndics may only accrue twi number, and records are viewable by any
+member of the syndicate, but no personally identifiable details are
+available.
+
+All users, including all personally identifiable details are available
+to all other members of the syndicate.
+
+All value is quantified in a single unit system. This precludes
+dynamic pricing.
+
+All debits and credits include multiple values, such as carbon
+emissions, labor time, and energy.
+
+For every debit, a credit must be generated, and vice versa. This
+precludes any “free” services.
+
+This allows labor to be credited without attaching a debit to any
+object or person. Debited objects may also remain uncompensated-for,
+and people can accumulate debit without a corresponding credit being
+generated.
